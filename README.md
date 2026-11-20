@@ -1,4 +1,4 @@
-# BLACKTAPE STUDIO // AI AUDIO & CYBERPUNK MEDIA WORKSPACE
+# BLACKTAPE STUDIO // AI AUDIO CENSOR & MEDIA WORKSPACE
 
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-white?style=for-the-badge&logo=fastapi&logoColor=black)](https://blacktapestudio.ru)
 [![License](https://img.shields.io/badge/License-MIT-white?style=for-the-badge)](LICENSE)
